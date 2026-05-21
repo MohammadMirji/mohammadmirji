@@ -1,4 +1,4 @@
-## Hi there 👋 — I'm Mohammad Mirji
+## Hi there, I'm Mohammad Mirji!
 
 **Deputy Manager of Design · CAD Automation & Engineering Productivity Specialist · Pune, India**
 
@@ -12,7 +12,7 @@ Mechanical engineer with 8+ years in flow control equipment — triple offset bu
 
 ---
 
-### 🔧 Featured Projects
+### Featured Projects
 
 | Project | Description |
 |---|---|
@@ -22,7 +22,7 @@ Mechanical engineer with 8+ years in flow control equipment — triple offset bu
 
 ---
 
-### 🛠 Stack
+### Stack
 
 **Automation** — C# · SolidWorks API · WPF/XAML · EPPlus  
 **Web / AI** — React · Node.js · LangChain.js · MongoDB Atlas · LangGraph  
